@@ -4,21 +4,31 @@ An optimized animated widget to be used for adding selection tiles within any pr
 
 <H3>Here is the Look of the widget.</H3>
 
-![screenshot 1](https://user-images.githubusercontent.com/60070029/180663873-dbdb2514-a3a2-490d-a978-cec92108f91b.PNG)
+
+
+https://user-images.githubusercontent.com/60070029/180888583-05ad1a4c-ac88-4053-bed7-b1489b7c677c.mp4
+
+
+![screenshot 1](https://user-images.githubusercontent.com/60070029/180888339-c879b1cb-9205-447a-9a11-64958b0b2f01.png)
+
 <br/>
 <br/>
 
 <H3>The design of the disabled items.</H3> 
+![screenshot 2](https://user-images.githubusercontent.com/60070029/180888644-837c29ec-7f3f-4b5c-bff7-a869bc5eeec0.png)
 
-![screenshot 2](https://user-images.githubusercontent.com/60070029/180663885-95d90252-a15e-4ea8-a799-8be68d2e66b5.PNG)
+
 <br/>
 <br/>
 
 <H3>Customize and stylize as per your requirements</H3>
 
-![screenshot 3](https://user-images.githubusercontent.com/60070029/180663987-5ac7ea63-10ff-4795-b374-ea0c9c87958d.PNG)
+![screenshot 3](https://user-images.githubusercontent.com/60070029/180889280-b0a7bb4a-c8b9-4d87-871a-8892fdf2250a.png)
 
-![screenshot 4](https://user-images.githubusercontent.com/60070029/180664000-ac70efc4-ff3a-4097-bbfc-081adbd69fc1.PNG)
+![screenshot 4](https://user-images.githubusercontent.com/60070029/180889303-500f298b-6f13-4f61-b515-d02362f79b68.png)
+
+
+
 
 <br/>
 <p><span style='font-size: 16px; line-height: 115%; font-family: Calibri, "sans-serif";'><strong>Step-1</strong></span></p>
@@ -48,13 +58,8 @@ The Parameters that you can provide and customize pn your own:
 
 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more information contact me at salman.ali1394@gmail.com 
+<br/>
+or
+<br/>
+Connect with me on LinkedIn here:  https://www.linkedin.com/in/salman-ali-577a94120/
