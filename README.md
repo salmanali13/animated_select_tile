@@ -9,13 +9,13 @@ An optimized animated widget to be used for adding selection tiles within any pr
 https://user-images.githubusercontent.com/60070029/180888583-05ad1a4c-ac88-4053-bed7-b1489b7c677c.mp4
 
 
-![screenshot 1](https://user-images.githubusercontent.com/60070029/180888339-c879b1cb-9205-447a-9a11-64958b0b2f01.png)
+<img src="https://user-images.githubusercontent.com/60070029/180888339-c879b1cb-9205-447a-9a11-64958b0b2f01.png" width="400"/> 
 
 <br/>
 <br/>
 
 <H3>The design of the disabled items.</H3> 
-![screenshot 2](https://user-images.githubusercontent.com/60070029/180888644-837c29ec-7f3f-4b5c-bff7-a869bc5eeec0.png)
+<img src="https://user-images.githubusercontent.com/60070029/180888644-837c29ec-7f3f-4b5c-bff7-a869bc5eeec0.png" width="400"/>
 
 
 <br/>
@@ -23,18 +23,16 @@ https://user-images.githubusercontent.com/60070029/180888583-05ad1a4c-ac88-4053-
 
 <H3>Customize and stylize as per your requirements</H3>
 
-![screenshot 3](https://user-images.githubusercontent.com/60070029/180889280-b0a7bb4a-c8b9-4d87-871a-8892fdf2250a.png)
-
-![screenshot 4](https://user-images.githubusercontent.com/60070029/180889303-500f298b-6f13-4f61-b515-d02362f79b68.png)
-
-
+<img src="https://user-images.githubusercontent.com/60070029/180889280-b0a7bb4a-c8b9-4d87-871a-8892fdf2250a.png" width="400"/> 
+<img src="https://user-images.githubusercontent.com/60070029/180889303-500f298b-6f13-4f61-b515-d02362f79b68.png" width="400"/> 
 
 
 <br/>
 <p><span style='font-size: 16px; line-height: 115%; font-family: Calibri, "sans-serif";'><strong>Step-1</strong></span></p>
 <p><span><span style="font-size: 14px; font-family: Calibri, sans-serif;">Add the &quot;selectionList_Widget.dart&quot; file within your project.</span></span></p>
 
-![screenshot 5](https://user-images.githubusercontent.com/60070029/180665470-58ff3e8e-a267-498e-b6ca-faa1fdaa8012.PNG)
+<img src="https://user-images.githubusercontent.com/60070029/180890498-606a7bc4-2c16-483a-a13d-47d03f866f74.png" width="500"/> 
+
 <br/>
 
 <p><span style='font-size: 16px; line-height: 115%; font-family: Calibri, "sans-serif";'><strong>Step-2</strong></span></p>
